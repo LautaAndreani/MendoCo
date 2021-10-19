@@ -47,7 +47,6 @@ export const SearchAPIContainer = styled.div`
       width: 40%;
       @media screen and (max-width: 1200px) {
         width: 100%;
-        background-color: red;
       }
       .content-info {
         .title {
