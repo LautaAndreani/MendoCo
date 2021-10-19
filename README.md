@@ -1,8 +1,7 @@
 # MendoCo 💻
 
-_MendoCo💻 Básicamente es una web, que brinda información sobre oficinas de coworking en Mendoza, y le permite al usuario que tenga un espacio de trabajo compartido en Mendoza, la posibilidad de agregar los detalles del mismo y adherirse a la base de datos de MendoCo.
+MendoCo💻 es una web, que brinda información sobre oficinas de coworking en Mendoza, y le permite al usuario que tenga un espacio de trabajo compartido en Mendoza, la posibilidad de agregar los detalles del mismo y adherirse a la base de datos de MendoCo.
 La particularidad del proyecto es que la base de datos está construida a partir de Google Sheets, utilizando la API de sheet.best para realizar las consultas y el envío de información.
-_
 
 ## Construido con 🛠️
 
@@ -17,3 +16,4 @@ _
 ---
 
 Gracias por leer 😊
+Hecho por [Lautaro](https://github.com/LautaAndreani)
