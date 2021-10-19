@@ -16,3 +16,4 @@ La particularidad del proyecto es que la base de datos está construida a partir
 ---
 
 Gracias por leer 😊
+Hecho por [Lautaro](https://github.com/LautaAndreani)
